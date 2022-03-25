@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenSegundoParcial", "ExamenSegundoParcial\ExamenSegundoParcial.csproj", "{C689E9D9-F3AE-41A7-A03A-15B25CA652FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{BB106167-C4FA-41B4-B5FC-0444CB01D21A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C689E9D9-F3AE-41A7-A03A-15B25CA652FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C689E9D9-F3AE-41A7-A03A-15B25CA652FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C689E9D9-F3AE-41A7-A03A-15B25CA652FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C689E9D9-F3AE-41A7-A03A-15B25CA652FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB106167-C4FA-41B4-B5FC-0444CB01D21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB106167-C4FA-41B4-B5FC-0444CB01D21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB106167-C4FA-41B4-B5FC-0444CB01D21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB106167-C4FA-41B4-B5FC-0444CB01D21A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8DCF147-5C00-4FE8-B44F-6196857D5DDE}
+	EndGlobalSection
+EndGlobal
